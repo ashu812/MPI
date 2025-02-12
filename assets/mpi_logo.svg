@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <style>
+    .text { font: bold 60px sans-serif; fill: white; }
+    .outline { stroke: rgba(0,0,0,0.5); stroke-width: 6; }
+  </style>
+  <text x="50%" y="65%" text-anchor="middle" class="text outline">MPI</text>
+  <text x="50%" y="65%" text-anchor="middle" class="text">MPI</text>
+</svg>
