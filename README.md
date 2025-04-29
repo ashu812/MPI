@@ -1,16 +1,21 @@
-# alpha2
+🥛 MPI (Milk Producers Info) Management System
 
-A new Flutter project.
+A robust Android-based live production management system developed for **Creamy Foods Ltd**, handling data for **10,000+ milk producers** with real-time sync, automated verification, and role-based access control.
 
-## Getting Started
+🚀 Features
+- Live Production System for dairy procurement
+- OCR-based Aadhaar & Bank Verification reducing manual errors by 70%
+- Role-Based Access with Firebase Authentication
+- Real-time Sync using Firebase Realtime Database
+- Custom Report Generation via Python scripts (Excel + Analytics)
+- Cloud Hosted on Google Cloud with 99.8% uptime
 
-This project is a starting point for a Flutter application.
+🛠 Tech Stack
+- Frontend: Android (Java/Kotlin)
+- Backend: Firebase (Realtime Database, Auth, Cloud Functions, Storage)
+- Automation: Python for report generation
+- Deployment: Google Cloud
 
-A few resources to get you started if this is your first Flutter project:
+📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
